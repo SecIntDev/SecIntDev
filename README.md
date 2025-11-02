@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm SecIntDev</h1>
 
-<!--
-**SecIntDev/SecIntDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Full-stack Developer · 🚀 Automation Enthusiast · 🧠 Open-source Contributor · 🌱 Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔐 Security & AI-focused developer  
+- ⚙️ Building intelligent automation and OSINT tools  
+- 🧠 Passionate about ethical tech and continuous learning  
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` · `JavaScript` · `FastAPI` · `Pyrogram` · `MongoDB` · `Docker` · `Linux`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SecIntDev&show_icons=true&theme=tokyonight" height="160" />
+</p>
+
+---
+
+<p align="center">🚀 Building secure automation for a smarter future</p>
